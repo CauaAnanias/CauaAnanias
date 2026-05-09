@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/384.gif" width="150" alt="Shiny Rayquaza" />
-
+  <img src="./rayquaza.jpg" width="100%" alt="Banner Rayquaza">
   <br><br>
 
-  <img src="https://via.placeholder.com/600x120/1a1b26/a9b1d6?text=COLE+O+LINK+DO+SEU+BANNER+WELCOME+AQUI" width="100%" alt="Welcome Banner" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/384.gif" width="150" alt="Shiny Rayquaza">
 
   <br><br>
 
@@ -16,6 +15,8 @@
 
 <hr>
 <hr>
+</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVjcmV1Zm9ybHB4NXkxY3g3dWExZnA5azl1aTh2bWFxMWk4eDZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzsmH5BntXJ51bEuoN/giphy.gif" width="250" alt="Pokémon Battle Intro" />
 </p>
