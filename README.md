@@ -8,18 +8,11 @@
 
   <h3>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" align="absmiddle"> 
-    Um Desenvolvedor Java Selvagem Apareceu! 
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" align="absmiddle">
+Um Desenvolvedor Java Selvagem Apareceu! 
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30" align="absmiddle"> 
   </h3>
 </div>
 
-<hr>
-<hr>
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVjcmV1Zm9ybHB4NXkxY3g3dWExZnA5azl1aTh2bWFxMWk4eDZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzsmH5BntXJ51bEuoN/giphy.gif" width="250" alt="Pokémon Battle Intro" />
-</p>
 
 ---
 
@@ -34,7 +27,7 @@
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="25" align="absmiddle"> ⚔️ Minha Party Principal</h3>
+<h3><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif" width="35" align="absmiddle"> ⚔️ Minha Party Principal</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" width="85" title="Garchomp" />
@@ -52,7 +45,7 @@
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png" width="25" align="absmiddle"> 🎒 Minha Mochila (Tech Stack)</h3>
+<h3><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/407.gif" width="35" align="absmiddle"> 🎒 Minha Mochila (Tech Stack)</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -65,7 +58,7 @@
 
 ---
 
-### 🏟️ Ginásios Vencidos (Projetos em Destaque)
+<h3><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="35" align="absmiddle"> 🏟️ Ginásios Vencidos (Projetos em Destaque)</h3>
 
 <details>
   <summary><b>🎲 API Ordem Paranormal (Back-End)</b></summary>
@@ -87,5 +80,7 @@
   <img src="https://streak-stats.demolab.com/?user=CauaAnanias&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 <p align="center">
-  <i><br>"The bonds you share with your Pokémon (e com o seu código) will surely overcome any obstacle!"</i>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="20" align="absmiddle">
+  <i> "The bonds you share with your Pokémon (e com o seu código) will surely overcome any obstacle!" </i>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="20" align="absmiddle">
 </p>
