@@ -67,10 +67,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaAnanias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaAnanias&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=CauaAnanias&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
-
 <p align="center">
   <i><br>"The bonds you share with your Pokémon (e com o seu código) will surely overcome any obstacle!"</i>
 </p>
