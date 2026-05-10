@@ -64,14 +64,14 @@ Um Desenvolvedor Java Selvagem Apareceu!
   <summary><b>🎲 API Ordem Paranormal (Back-End)</b></summary>
   <br>
   Uma API RESTful construída com <b>Java</b> e <b>Spring Boot</b> para gerenciar o sistema de RPG Ordem Paranormal. Integra banco de dados NoSQL (MongoDB), valida regras de negócio e possui tratamento de erros customizado.<br>
-  🔗 <i>Link para o repositório em breve!</i>
+  🔗 <a href="https://github.com/CauaAnanias/kai-sa">Ver Repositório</a>
 </details>
 
 <details>
   <summary><b>🌌 Kai'sa - League of Legends (Front-End)</b></summary>
   <br>
   Landing page imersiva desenvolvida do zero sem tutoriais usando HTML, CSS e JavaScript puro (Vanilla). Comprova autonomia e sólidos conhecimentos visuais.<br>
-  🔗 <a href="https://github.com/CauaAnanias/kai-sa">Ver Repositório</a>
+  🔗 <a href="https://github.com/CauaAnanias/api-ordem-paranormal">Ver Repositório</a>
 </details>
 
 ---
